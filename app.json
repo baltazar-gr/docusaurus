@@ -1,0 +1,12 @@
+{
+  "name": "docusaurus",
+  "displayName": "docusaurus",
+  "expo": {
+    "name": "docusaurus",
+    "slug": "docusaurus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
